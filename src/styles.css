@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.in {
+  background-color: rgb(255, 122, 122);
+  height: 180px;
+  width: 50px;
+  margin: 110% 0;
+}
+.out {
+  background-color: rgb(97, 223, 181);
+  height: 180px;
+  width: 50px;
+  margin: 110% 0;
+}
